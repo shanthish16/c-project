@@ -13,5 +13,6 @@ int main(void) {
     long long f = fact(n);
     if (f < 0) { puts("invalid"); return 1; }
     printf("%lld\n", f);
-    return 0;
+    return 0;
 }
+
